@@ -1,7 +1,7 @@
 # <font color="orange">**CHALLENGE FIAP 2023**</font>
 <br>
 
-![ LOGO DO PROJETO ](documentacao/LOGO_EASYCOMPRAS.png) 
+# EASY COMPRAS
 
 <br>
 
